@@ -1,9 +1,7 @@
-# HELLO READER <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# HELLO DEVELOPERS <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-BE SOCIAL 🌍
+<b>BE SOCIAL<b>🌍
 <br>
-<br>
-
 <a href="https://twitter.com/hardikgehlot23">
   <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
@@ -19,12 +17,12 @@ BE SOCIAL 🌍
 <a href="https://www.instagram.com/hardik.dz___">
   <img align="left" alt="Instagram" width="22px" src="https://github.com/Hardik-Gehlot/Hardik-Gehlot/blob/main/icons/instagram.svg" />
 </a>
-<hr>
 <br>
+<hr>
 
 **Hi, I'm Hardik Gehlot, a passionate self-taught Android Developer from India.**
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/Hardik-Gehlot/Hardik-Gehlot/blob/main/gifs/36707-working-man.gif?raw=true" width="500" height="400" />
   
 **Talking about Personal Stuffs:**
 
