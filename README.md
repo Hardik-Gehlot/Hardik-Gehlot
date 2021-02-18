@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/hardik-gehlot-2b34aa200">
   <img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https:/https://www.facebook.com/hardigehlot23">
+<a href="https://www.facebook.com/hardigehlot23">
   <img align="left" alt="Facebook" width="22px" src="https://github.com/Hardik-Gehlot/Hardik-Gehlot/blob/main/icons/facebook.svg" />
 </a>
 <a href="https://www.pinterest.com/hardikgehlot2303">
