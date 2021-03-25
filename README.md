@@ -1,4 +1,5 @@
-# HELLO DEVELOPERS <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# HELLO DEVELOPERS <img src="https://github.com/Hardik-Gehlot/Hardik-Gehlot/blob/main/gifs/animation_500_kmog1xx8.gif" width="40px">
+
 
 <b>BE SOCIAL<b>🌍
 <br>
@@ -20,14 +21,13 @@
 <br>
 <hr>
 
-**Hi, I'm Hardik Gehlot, a passionate self-taught Android Developer from India.**
+## Hi, I'm Hardik Gehlot, a passionate self-taught Programmer💻 from India.
 
   <img align="right" alt="GIF" src="https://github.com/Hardik-Gehlot/Hardik-Gehlot/blob/main/gifs/36707-working-man.gif?raw=true" width="500" height="400" />
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning C
 - 💬 Ask me about anything, I am happy to help
 
 **Languages and Tools:**  
