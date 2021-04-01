@@ -39,17 +39,10 @@
 <img height="30" src="https://github.com/Hardik-Gehlot/Hardik-Gehlot/blob/main/icons/c%2B%2B_96px.png">
 <img height="30" src="https://github.com/Hardik-Gehlot/Hardik-Gehlot/blob/main/icons/java_96px.png">
 <img height="30" src="https://github.com/Hardik-Gehlot/Hardik-Gehlot/blob/main/icons/intellij_idea_96px.png">
+<br>
 <img height="30" src="https://github.com/Hardik-Gehlot/Hardik-Gehlot/blob/main/icons/stack_overflow_96px.png">
 <img height="30" src="https://github.com/Hardik-Gehlot/Hardik-Gehlot/blob/main/icons/adobe_photoshop_96px.png">
 <img height="30" src="https://github.com/Hardik-Gehlot/Hardik-Gehlot/blob/main/icons/adobe_xd_96px.png">
-<img height="25" src="https://github.com/Hardik-Gehlot/Hardik-Gehlot/blob/main/icons/figma-seeklogo.com.svg">
 <img height="30" src="https://github.com/Hardik-Gehlot/Hardik-Gehlot/blob/main/icons/play_button_96px.png">
 <img height="30" src="https://github.com/Hardik-Gehlot/Hardik-Gehlot/blob/main/icons/notion_96px.png">
-
-
-
-
-
-
-
-
+<img height="23" src="https://github.com/Hardik-Gehlot/Hardik-Gehlot/blob/main/icons/figma-seeklogo.com.svg">
