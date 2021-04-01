@@ -32,10 +32,22 @@
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://github.com/Hardik-Gehlot/Hardik-Gehlot/blob/main/icons/figma-seeklogo.com.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+
+<img height="30" src="https://github.com/Hardik-Gehlot/Hardik-Gehlot/blob/main/icons/git_96px.png">
+<img height="30" src="https://github.com/Hardik-Gehlot/Hardik-Gehlot/blob/main/icons/github_96px.png">
+<img height="30" src="https://github.com/Hardik-Gehlot/Hardik-Gehlot/blob/main/icons/c_programming_96px.png">
+<img height="30" src="https://github.com/Hardik-Gehlot/Hardik-Gehlot/blob/main/icons/c%2B%2B_96px.png">
+<img height="30" src="https://github.com/Hardik-Gehlot/Hardik-Gehlot/blob/main/icons/java_96px.png">
+<img height="30" src="https://github.com/Hardik-Gehlot/Hardik-Gehlot/blob/main/icons/intellij_idea_96px.png">
+<img height="30" src="https://github.com/Hardik-Gehlot/Hardik-Gehlot/blob/main/icons/stack_overflow_96px.png">
+<img height="30" src="https://github.com/Hardik-Gehlot/Hardik-Gehlot/blob/main/icons/adobe_photoshop_96px.png">
+<img height="30" src="https://github.com/Hardik-Gehlot/Hardik-Gehlot/blob/main/icons/adobe_xd_96px.png">
+<img height="25" src="https://github.com/Hardik-Gehlot/Hardik-Gehlot/blob/main/icons/figma-seeklogo.com.svg">
+<img height="30" src="https://github.com/Hardik-Gehlot/Hardik-Gehlot/blob/main/icons/play_button_96px.png">
+<img height="30" src="https://github.com/Hardik-Gehlot/Hardik-Gehlot/blob/main/icons/notion_96px.png">
+
+
+
 
 
 
