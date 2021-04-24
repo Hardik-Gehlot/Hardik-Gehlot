@@ -27,7 +27,7 @@
   
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C++
 - 💬 Ask me about anything, I am happy to help
 
 **Languages and Tools:**  
