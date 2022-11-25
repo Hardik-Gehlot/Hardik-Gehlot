@@ -21,28 +21,39 @@
 <br>
 <hr>
 
-## Hi, I'm Hardik Gehlot, a passionate self-taught Programmer💻 from India.
+## Hi, I'm Hardik Gehlot, A Full stack Java Developer | Android Developer.
 
   <img align="right" alt="GIF" src="https://github.com/Hardik-Gehlot/Hardik-Gehlot/blob/main/gifs/36707-working-man.gif?raw=true" width="500" height="400" />
   
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning JAVA
-- 💬 Ask me about anything, I am happy to help
+- 🎓 I’m pursuing my Bachelor`s degree in CSE from Arya Institute of Engineering and technology,Jaipur. 
+- ⛓️ Currently learning Blockchain Technology.
 
-**Languages and Tools:**  
+**Skills:**  
 
-
-<img height="30" src="https://github.com/Hardik-Gehlot/Hardik-Gehlot/blob/main/icons/git_96px.png">
-<img height="30" src="https://github.com/Hardik-Gehlot/Hardik-Gehlot/blob/main/icons/github_96px.png">
-<img height="30" src="https://github.com/Hardik-Gehlot/Hardik-Gehlot/blob/main/icons/c_programming_96px.png">
-<img height="30" src="https://github.com/Hardik-Gehlot/Hardik-Gehlot/blob/main/icons/c%2B%2B_96px.png">
-<img height="30" src="https://github.com/Hardik-Gehlot/Hardik-Gehlot/blob/main/icons/java_96px.png">
-<img height="30" src="https://github.com/Hardik-Gehlot/Hardik-Gehlot/blob/main/icons/intellij_idea_96px.png">
+##### DATABASES <br>
+<img height="30" src="https://github.com/Hardik-Gehlot/Hardik-Gehlot/blob/main/icons/mysql.png">
+<img height="30" src="https://github.com/Hardik-Gehlot/Hardik-Gehlot/blob/main/icons/firebase.png">
+<img height="30" src="https://github.com/Hardik-Gehlot/Hardik-Gehlot/blob/main/icons/mongodb.png">
 <br>
-<img height="30" src="https://github.com/Hardik-Gehlot/Hardik-Gehlot/blob/main/icons/stack_overflow_96px.png">
-<img height="30" src="https://github.com/Hardik-Gehlot/Hardik-Gehlot/blob/main/icons/adobe_photoshop_96px.png">
-<img height="30" src="https://github.com/Hardik-Gehlot/Hardik-Gehlot/blob/main/icons/adobe_xd_96px.png">
-<img height="30" src="https://github.com/Hardik-Gehlot/Hardik-Gehlot/blob/main/icons/play_button_96px.png">
-<img height="30" src="https://github.com/Hardik-Gehlot/Hardik-Gehlot/blob/main/icons/notion_96px.png">
-<img height="23" src="https://github.com/Hardik-Gehlot/Hardik-Gehlot/blob/main/icons/figma-seeklogo.com.svg">
+
+##### TECHNOLOGY <br>
+<img height="30" src="https://github.com/Hardik-Gehlot/Hardik-Gehlot/blob/main/icons/html5.png">
+<img height="30" src="https://github.com/Hardik-Gehlot/Hardik-Gehlot/blob/main/icons/css3.png">
+<img height="30" src="https://github.com/Hardik-Gehlot/Hardik-Gehlot/blob/main/icons/javascript.png">
+<img height="30" src="https://github.com/Hardik-Gehlot/Hardik-Gehlot/blob/main/icons/c_programming_96px.png">
+<img height="30" src="https://github.com/Hardik-Gehlot/Hardik-Gehlot/blob/main/icons/c++_96px.png">
+<img height="30" src="https://github.com/Hardik-Gehlot/Hardik-Gehlot/blob/main/icons/java_96px.png">
+<img height="30" src="https://github.com/Hardik-Gehlot/Hardik-Gehlot/blob/main/icons/git_96px.png">
+<img height="30" src="https://github.com/Hardik-Gehlot/Hardik-Gehlot/blob/main/icons/blockchain.png">
+<img height="30" src="https://github.com/Hardik-Gehlot/Hardik-Gehlot/blob/main/icons/icons8-solidity-480.png">
+<img height="30" src="https://github.com/Hardik-Gehlot/Hardik-Gehlot/blob/main/icons/react.png">
+<img height="30" src="https://github.com/Hardik-Gehlot/Hardik-Gehlot/blob/main/icons/spring-boot.png">
+<br>
+<br>
+<img height="300" src="https://github.com/Hardik-Gehlot/Hardik-Gehlot/blob/main/pie-chart.svg">
+
+
+
+<br>
