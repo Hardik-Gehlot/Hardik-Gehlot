@@ -24,6 +24,7 @@
 <img src="https://img.icons8.com/fluency/48/c-plus-plus-logo.png" alt="C++" width="15" height="15">
 <img src="https://img.icons8.com/color/48/c-programming.png" alt="C" width="15" height="15">
 <img src="https://firebasestorage.googleapis.com/v0/b/hardikgehlot-portfolio.appspot.com/o/javascript.png?alt=media&token=7656d9fa-72bb-4dc5-9506-456fc15d7e4a" alt="JavaScript" width="15" height="15">
+<img src="https://img.icons8.com/color/48/typescript.png" alt="Typescript" width="15" height="15">
 <img src="https://firebasestorage.googleapis.com/v0/b/hardikgehlot-portfolio.appspot.com/o/solidity.png?alt=media&token=421625fc-298b-4e0b-8662-59acb2cced4d" alt="Solidity" width="15" height="15"><br>
 **Other Technologies:**
 <img src="https://firebasestorage.googleapis.com/v0/b/hardikgehlot-portfolio.appspot.com/o/docker.svg?alt=media&token=15dd5f35-e5e6-4108-ac0b-9d0eb71f51d3" alt="Docker" width="15" height="15">
@@ -42,6 +43,11 @@
 <img align="right" alt="GIF" src="https://firebasestorage.googleapis.com/v0/b/hardikgehlot-portfolio.appspot.com/o/teddy.gif?alt=media&token=1bb2f9c4-1303-47c9-aa42-48119d8bb78c" width="400"/>
 
 ## Projects
+
+### [**Sales Dashboard**](https://github.com/Hardik-Gehlot/SalesDash)
+[Live Demo](https://salesdash.onrender.com/)<br>
+Tools:&nbsp; &nbsp; **Typescript** &nbsp; | &nbsp;**Docker** &nbsp; | &nbsp;**Mongo** &nbsp; | &nbsp; **Nodejs** &nbsp; | &nbsp; **Material UI** &nbsp; | &nbsp; **Nivo** &nbsp; | &nbsp; **Redux**<br>
+Developed Admin dashboard using TypeScript  with Material UI for comprehensive admin oversight. Leveraged Nivo for visually stunning charts displaying sales, customer data, and transaction analytics. Enhanced user insights through intuitive monthly and daily sales breakdowns.<br><br>
 
 ### [**Algorithm Visualizer**](https://github.com/Hardik-Gehlot/Algorithm-Visualizer)
 Tools:&nbsp; &nbsp; **HTML** &nbsp; | &nbsp;**CSS** &nbsp; | &nbsp;**JavaScript** &nbsp; | &nbsp; **React**<br>
